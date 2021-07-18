@@ -1,3 +1,2 @@
 # deluxe-thinkers-site
-
-hello
+This is the new site for Deluxe Thinkers.
